@@ -49,7 +49,7 @@ You can download my CV [here](https://github.com/EricLee8/EricLee8.github.io/blo
 
 
 ### Experience
-* 2023.03 - present: LumiNLP, Mihoyo.
+* 2023.03 - present: LumiNLP, MiHoYo.
 * 2022.08 - 2023.02: NLPC, Tencent AI-Lab.
 * 2021 - present: Master student at Shanghai Jiao Tong University, supervised by [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/).
 * 2017 - 2021: Undergraduate student at Department of Computer Science and Engineering, Shanghai Jiao Tong University.
