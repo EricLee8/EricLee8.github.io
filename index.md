@@ -2,10 +2,14 @@
 layout: default
 ---
 
+### Profile
+
 Hi, my name is Yiyang Li (李熠阳).
 I am a second-year Master student at [BCMI@SJTU](https://bcmi.sjtu.edu.cn/), supervised by [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 Before this, I received my Bachelor's Degree from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2021.
 My main research interest focuses on Natural Language Process, especially on dialogue understanding/generation.
+
+You can download my CV [here](https://github.com/EricLee8/EricLee8.github.io/blob/v2/CV/20230505.pdf).
 
 ### Publications:
 
