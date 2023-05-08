@@ -1,7 +1,7 @@
-title: Yu Zhang
-position: Ph.D. Student
-affiliation: Soochow University
-email: yzhang.cs (at) outlook.com
+title: Yiyang Li
+position: Master Student
+affiliation: Shanghai Jiao Tong University
+email: eric-lee@sjtu.edu.cn
 
 plugins:
   - jekyll-spaceship
@@ -10,13 +10,12 @@ plugins:
 
 keywords: minimal academic
 description:
-  PhD student [@SUDA-HLT](http://hlt.suda.edu.cn), Soochow University
-canonical: https://yzhang.site
+  Master student [BCMI@SJTU](https://bcmi.sjtu.edu.cn/), Shanghai Jiao Tong University
+canonical: https://ericlee8.github.io/
 
-semantic_scholar: https://www.semanticscholar.org/author/Yu-Zhang/49890808
-google_scholar: https://scholar.google.com/citations?user=y3JK-1oAAAAJ
-github_link: https://github.com/yzhangcs
-arxiv_link: https://yzhang.site/arxiv
+semantic_scholar: https://www.semanticscholar.org/author/Yiyang-Li/2110418724
+google_scholar: https://scholar.google.com/citations?user=Q_Wj8HgAAAAJ
+github_link: https://github.com/EricLee8
 
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png

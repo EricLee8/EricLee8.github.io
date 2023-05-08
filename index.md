@@ -29,7 +29,7 @@ My main research interest focuses on Natural Language Process, especially on dia
 
 * Semantic-Preserving Adversarial Code Comprehension <br>
 **Yiyang Li**, Hongqiu Wu, Hai Zhao <br>
-**EMNLP 2022** <br>
+**COLING 2022** <br>
 [![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square)](https://www.aclanthology.org/2022.coling-1.267.pdf)
 [![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://www.aclanthology.org/2022.coling-1.267.bib)
 [![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github)](https://github.com/EricLee8/SPACE)
@@ -37,7 +37,7 @@ My main research interest focuses on Natural Language Process, especially on dia
 
 * Self- and Pseudo-self-supervised Prediction of Speaker and Key-utterance for Multi-party Dialogue Reading Comprehension <br>
 **Yiyang Li**, Hai Zhao <br>
-**EMNLP 2022** <br>
+**Findings of EMNLP 2021** <br>
 [![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square)](https://aclanthology.org/2021.findings-emnlp.176.pdf)
 [![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://aclanthology.org/2021.findings-emnlp.176.bib)
 [![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github)](https://github.com/EricLee8/Multi-party-Dialogue-MRC)
