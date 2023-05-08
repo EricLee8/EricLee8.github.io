@@ -1,0 +1,33 @@
+title: Yu Zhang
+position: Ph.D. Student
+affiliation: Soochow University
+email: yzhang.cs (at) outlook.com
+
+plugins:
+  - jekyll-spaceship
+  - jekyll-last-modified-at
+  - jekyll-analytics
+
+keywords: minimal academic
+description:
+  PhD student [@SUDA-HLT](http://hlt.suda.edu.cn), Soochow University
+canonical: https://yzhang.site
+
+semantic_scholar: https://www.semanticscholar.org/author/Yu-Zhang/49890808
+google_scholar: https://scholar.google.com/citations?user=y3JK-1oAAAAJ
+github_link: https://github.com/yzhangcs
+arxiv_link: https://yzhang.site/arxiv
+
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-249984993-1
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
