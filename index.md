@@ -18,10 +18,18 @@ You can download my CV [here](https://github.com/EricLee8/EricLee8.github.io/blo
 * Pre-training Multi-party Dialogue Models with Latent Discourse Inference <br>
 **Yiyang Li**, Xinting Huang, Wei Bi, Hai Zhao <br>
 **ACL 2023** <br>
+[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square)](https://arxiv.org/pdf/2305.15175.pdf)
+[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://scholar.googleusercontent.com/scholar.bib?q=info:cZoySbm3u3MJ:scholar.google.com/&output=citation&scisdr=Cm3H4DHuELDsh9uSAIE:AGlGAw8AAAAAZHmUGIEpjn-y-PvvaymqyfCYFYs&scisig=AGlGAw8AAAAAZHmUGBLonGA67vcuQHofhzBmhV0&scisf=4&ct=citation&cd=-1&hl=en)
+[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github)](https://github.com/EricLee8/MPD_EMVI)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8781e2a7919c45a173853d7e7bef6fbd4b45d391%3Ffields%3DcitationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Back-to-the-Future%3A-Bidirectional-Information-for-Li-Zhao/8781e2a7919c45a173853d7e7bef6fbd4b45d391)
 
 * EM Pre-training for Multi-party Dialogue Response Generation <br>
 **Yiyang Li**, Hai Zhao <br>
 **ACL 2023** <br>
+[![paper](https://img.shields.io/badge/paper-d6d6d6.svg?style=flat-square)](https://arxiv.org/pdf/2305.12412)
+[![bib](https://img.shields.io/badge/bib-d6d6d6.svg?style=flat-square)](https://scholar.googleusercontent.com/scholar.bib?q=info:QXqV7egYXO0J:scholar.google.com/&output=citation&scisdr=Cm3H4DHuELDsh9uVD58:AGlGAw8AAAAAZHmTF59Xsy4sXTKuc120CBecanU&scisig=AGlGAw8AAAAAZHmTF2EChEJQzVBeHfa5tBmif7g&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+[![code](https://img.shields.io/badge/code-d6d6d6.svg?style=flat-square&logo=github)](https://github.com/EricLee8/MPDRG)
+[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F13068f5f0f2ab8a50ee0c43a9362e351d2019377%3Ffields%3DcitationCount&color=d6d6d6&style=flat-square&logo=semanticscholar)](https://www.semanticscholar.org/paper/Back-to-the-Future%3A-Bidirectional-Information-for-Li-Zhao/13068f5f0f2ab8a50ee0c43a9362e351d2019377)
 
 * Back to the Future: Bidirectional Information Decoupling Network for Multi-turn Dialogue Modeling <br>
 **Yiyang Li**, Hai Zhao, Zhuosheng Zhang <br>
